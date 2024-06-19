@@ -1,0 +1,11 @@
+D:\awtprac05\EmployeeWageCalculator\EmployeeWageCalculator\bin\Debug\EmployeeWageCalculator.exe.config
+D:\awtprac05\EmployeeWageCalculator\EmployeeWageCalculator\bin\Debug\EmployeeWageCalculator.exe
+D:\awtprac05\EmployeeWageCalculator\EmployeeWageCalculator\bin\Debug\EmployeeWageCalculator.pdb
+D:\awtprac05\EmployeeWageCalculator\EmployeeWageCalculator\obj\Debug\EmployeeWageCalculator.csproj.AssemblyReference.cache
+D:\awtprac05\EmployeeWageCalculator\EmployeeWageCalculator\obj\Debug\EmployeeWageCalculator.csproj.SuggestedBindingRedirects.cache
+D:\awtprac05\EmployeeWageCalculator\EmployeeWageCalculator\obj\Debug\EmployeeWageCalculator.Form1.resources
+D:\awtprac05\EmployeeWageCalculator\EmployeeWageCalculator\obj\Debug\EmployeeWageCalculator.Properties.Resources.resources
+D:\awtprac05\EmployeeWageCalculator\EmployeeWageCalculator\obj\Debug\EmployeeWageCalculator.csproj.GenerateResource.cache
+D:\awtprac05\EmployeeWageCalculator\EmployeeWageCalculator\obj\Debug\EmployeeWageCalculator.csproj.CoreCompileInputs.cache
+D:\awtprac05\EmployeeWageCalculator\EmployeeWageCalculator\obj\Debug\EmployeeWageCalculator.exe
+D:\awtprac05\EmployeeWageCalculator\EmployeeWageCalculator\obj\Debug\EmployeeWageCalculator.pdb

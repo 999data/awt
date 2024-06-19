@@ -1,0 +1,10 @@
+D:\awtprojects\SingleLevelInheritanceApp\bin\Debug\SingleLevelInheritanceApp.exe.config
+D:\awtprojects\SingleLevelInheritanceApp\bin\Debug\SingleLevelInheritanceApp.exe
+D:\awtprojects\SingleLevelInheritanceApp\bin\Debug\SingleLevelInheritanceApp.pdb
+D:\awtprojects\SingleLevelInheritanceApp\obj\Debug\SingleLevelInheritanceApp.csproj.AssemblyReference.cache
+D:\awtprojects\SingleLevelInheritanceApp\obj\Debug\SingleLevelInheritanceApp.Form1.resources
+D:\awtprojects\SingleLevelInheritanceApp\obj\Debug\SingleLevelInheritanceApp.Properties.Resources.resources
+D:\awtprojects\SingleLevelInheritanceApp\obj\Debug\SingleLevelInheritanceApp.csproj.GenerateResource.cache
+D:\awtprojects\SingleLevelInheritanceApp\obj\Debug\SingleLevelInheritanceApp.csproj.CoreCompileInputs.cache
+D:\awtprojects\SingleLevelInheritanceApp\obj\Debug\SingleLevelInheritanceApp.exe
+D:\awtprojects\SingleLevelInheritanceApp\obj\Debug\SingleLevelInheritanceApp.pdb

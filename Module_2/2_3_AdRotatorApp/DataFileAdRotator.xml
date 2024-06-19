@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~\images\udemy.png</ImageUrl>
+		<NavigateUrl>https://www.udemy.com/</NavigateUrl>
+		<AlternateText> Udemy  </AlternateText>
+		<Impressions>30</Impressions>
+		<Keyword>Udemy</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~\images\Flipkart-logo.png</ImageUrl>
+		<NavigateUrl>https://www.flipkart.com</NavigateUrl>
+		<AlternateText>Flipkart</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>FLIPKART</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~\images\google.jpg</ImageUrl>
+		<NavigateUrl>https://www.google.com</NavigateUrl>
+		<AlternateText>Google</AlternateText>
+		<Impressions>30</Impressions>
+		<Keyword>google</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~\images\amazon.png</ImageUrl>
+		<NavigateUrl>https://www.amazon.in</NavigateUrl>
+		<AlternateText>Amazon</AlternateText>
+		<Impressions>30</Impressions>
+		<Keyword>shopping site</Keyword>
+	</Ad>
+</Advertisements>

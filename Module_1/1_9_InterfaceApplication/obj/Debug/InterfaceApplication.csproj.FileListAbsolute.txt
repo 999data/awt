@@ -1,0 +1,10 @@
+D:\awtprojects\InterfaceApplication\bin\Debug\InterfaceApplication.exe.config
+D:\awtprojects\InterfaceApplication\bin\Debug\InterfaceApplication.exe
+D:\awtprojects\InterfaceApplication\bin\Debug\InterfaceApplication.pdb
+D:\awtprojects\InterfaceApplication\obj\Debug\InterfaceApplication.csproj.AssemblyReference.cache
+D:\awtprojects\InterfaceApplication\obj\Debug\InterfaceApplication.Form1.resources
+D:\awtprojects\InterfaceApplication\obj\Debug\InterfaceApplication.Properties.Resources.resources
+D:\awtprojects\InterfaceApplication\obj\Debug\InterfaceApplication.csproj.GenerateResource.cache
+D:\awtprojects\InterfaceApplication\obj\Debug\InterfaceApplication.csproj.CoreCompileInputs.cache
+D:\awtprojects\InterfaceApplication\obj\Debug\InterfaceApplication.exe
+D:\awtprojects\InterfaceApplication\obj\Debug\InterfaceApplication.pdb

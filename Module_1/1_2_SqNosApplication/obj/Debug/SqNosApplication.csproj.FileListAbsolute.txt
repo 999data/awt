@@ -1,0 +1,10 @@
+D:\awtprojects\SqNosApplication\bin\Debug\SqNosApplication.exe.config
+D:\awtprojects\SqNosApplication\bin\Debug\SqNosApplication.exe
+D:\awtprojects\SqNosApplication\bin\Debug\SqNosApplication.pdb
+D:\awtprojects\SqNosApplication\obj\Debug\SqNosApplication.csproj.AssemblyReference.cache
+D:\awtprojects\SqNosApplication\obj\Debug\SqNosApplication.Form1.resources
+D:\awtprojects\SqNosApplication\obj\Debug\SqNosApplication.Properties.Resources.resources
+D:\awtprojects\SqNosApplication\obj\Debug\SqNosApplication.csproj.GenerateResource.cache
+D:\awtprojects\SqNosApplication\obj\Debug\SqNosApplication.csproj.CoreCompileInputs.cache
+D:\awtprojects\SqNosApplication\obj\Debug\SqNosApplication.exe
+D:\awtprojects\SqNosApplication\obj\Debug\SqNosApplication.pdb

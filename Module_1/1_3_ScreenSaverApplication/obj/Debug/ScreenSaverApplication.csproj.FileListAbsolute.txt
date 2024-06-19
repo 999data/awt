@@ -1,0 +1,10 @@
+D:\awtprojects\ScreenSaverApplication\bin\Debug\ScreenSaverApplication.exe.config
+D:\awtprojects\ScreenSaverApplication\bin\Debug\ScreenSaverApplication.exe
+D:\awtprojects\ScreenSaverApplication\bin\Debug\ScreenSaverApplication.pdb
+D:\awtprojects\ScreenSaverApplication\obj\Debug\ScreenSaverApplication.csproj.AssemblyReference.cache
+D:\awtprojects\ScreenSaverApplication\obj\Debug\ScreenSaverApplication.Form1.resources
+D:\awtprojects\ScreenSaverApplication\obj\Debug\ScreenSaverApplication.Properties.Resources.resources
+D:\awtprojects\ScreenSaverApplication\obj\Debug\ScreenSaverApplication.csproj.GenerateResource.cache
+D:\awtprojects\ScreenSaverApplication\obj\Debug\ScreenSaverApplication.csproj.CoreCompileInputs.cache
+D:\awtprojects\ScreenSaverApplication\obj\Debug\ScreenSaverApplication.exe
+D:\awtprojects\ScreenSaverApplication\obj\Debug\ScreenSaverApplication.pdb

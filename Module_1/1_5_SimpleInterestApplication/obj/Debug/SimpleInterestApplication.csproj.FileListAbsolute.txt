@@ -1,0 +1,10 @@
+D:\awtprojects\SimpleInterestApplication\bin\Debug\SimpleInterestApplication.exe.config
+D:\awtprojects\SimpleInterestApplication\bin\Debug\SimpleInterestApplication.exe
+D:\awtprojects\SimpleInterestApplication\bin\Debug\SimpleInterestApplication.pdb
+D:\awtprojects\SimpleInterestApplication\obj\Debug\SimpleInterestApplication.csproj.AssemblyReference.cache
+D:\awtprojects\SimpleInterestApplication\obj\Debug\SimpleInterestApplication.Properties.Resources.resources
+D:\awtprojects\SimpleInterestApplication\obj\Debug\SimpleInterestApplication.SimpleInterestForm.resources
+D:\awtprojects\SimpleInterestApplication\obj\Debug\SimpleInterestApplication.csproj.GenerateResource.cache
+D:\awtprojects\SimpleInterestApplication\obj\Debug\SimpleInterestApplication.csproj.CoreCompileInputs.cache
+D:\awtprojects\SimpleInterestApplication\obj\Debug\SimpleInterestApplication.exe
+D:\awtprojects\SimpleInterestApplication\obj\Debug\SimpleInterestApplication.pdb

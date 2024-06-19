@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="MasterWebApplication.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <center>
+         <div>
+             <h1 style="height: 68px">BVIMIT</h1>
+             <p style="height: 278px">
+                 <asp:Image ID="Ïmage1" runat="server" Height="280px" ImageUrl="~\image\bvimit.jpg" Width="345px" />
+             </p>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        </center>
+    </form>
+</body>
+</html>

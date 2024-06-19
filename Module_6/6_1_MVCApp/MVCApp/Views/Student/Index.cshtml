@@ -1,0 +1,31 @@
+﻿@model IEnumerable<MVCApp.Student>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.sid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.sname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.course)
+        </th>
+    </tr>
+    <h1>@ViewBag.Itemlist</h1>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+          @Html.DisplayFor(modelItem => item.sid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.sname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.course)
+        </td>
+    </tr>
+}
+
+</table>
